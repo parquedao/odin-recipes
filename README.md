@@ -1,1 +1,2 @@
 # odin-recipes
+This project is my first project. It is used as a means to practice my HTML basics. Some skills that I practiced/learned from this activity include setting up boilerplate information, adding images to HTML, using ordered and unordered lists, and using hyperlinks to link to other websites and pages from within the code I wrote. None of the recippes information included in the project are from me. All of the information was found on allrecipes.com and should not be seen as original content from the person who wrote this code.
